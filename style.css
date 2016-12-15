@@ -25,5 +25,7 @@ li a {
 li a:hover {
     background-color: #111;
 }
+h1 {text-align:center;}
+p {text-align:center;}
 
 </style>
